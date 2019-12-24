@@ -24,11 +24,6 @@ sections:
   label: Home
   templates:
   - home
-- type: document
-  path: src/pages/contact.md
-  label: Contact
-  templates:
-  - contact
 - type: directory
   path: src/pages
   label: Page
