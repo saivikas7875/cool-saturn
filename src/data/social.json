@@ -11,12 +11,6 @@
       "title": "GitHub",
       "icon": "fa-github",
       "url": "https://github.com/saivikas7875"
-    },
-    {
-      "type": "linkedin",
-      "title": "LinkedIn",
-      "icon": "fa-linkedin",
-      "url": "https://www.linkedin.com/"
     }
   ]
 }
