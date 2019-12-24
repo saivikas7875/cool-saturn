@@ -3,8 +3,8 @@
   "layout_style": "overflow",
   "palette": "green",
   "header": {
-    "title": "Stackbit Fresh",
-    "tagline": "Header Tagline",
+    "title": "",
+    "tagline": "",
     "profile_img": "images/avatar.png",
     "bg": "dark",
     "has_nav": true,
